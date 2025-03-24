@@ -35,6 +35,7 @@ You can evaluate your model on the 2018 test sets using the ongoing [Codalab](ht
 ```
 train
  (en) 29000 sentences, 377534 words, 13.0 words/sent
+ (brx) 29000 sentences, 453645 words, 
  (de) 29000 sentences, 360706 words, 12.4 words/sent
  (fr) 29000 sentences, 409845 words, 14.1 words/sent
  (cs) 29000 sentences, 297212 words, 10.2 words/sent
